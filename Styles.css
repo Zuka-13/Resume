@@ -1,0 +1,68 @@
+/* Styles for CV */
+h2.Bio{
+    color: #ff0000;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2.Edu{
+    color: #1d1bb1;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2.Experience{
+    color: #ff0000;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2.Interests{
+    color: #1d1bb1;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2.Skills{
+    color: #ff0000;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2.Adress{
+    color: #1d1bb1;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2.Contact{
+    color: #ff0000;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+p{
+    background-color: saddlebrown;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 18px;
+
+}
+img.ProfilePhoto{
+    height: 150px;
+    width: 100px;
+}
